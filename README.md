@@ -1,16 +1,9 @@
-# ecommerceappui
+# E-Commerce App UI
+E-Commerce app UI created with flutter.
 
-A new Flutter project.
+## Tech Stack
+- Flutter
+- Provider
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots of the Application
+<img src="https://i.imgur.com/Vn0xop7.png" height="25%" width="25%" alt="Welcome Screen"/> <img src="https://i.imgur.com/Jhx0u5s.png" height="25%" width="25%" alt="Shop Screen"/> <img src="https://i.imgur.com/OaXMqs3.png" height="25%" width="25%" alt="Drawer Screen"/> <img src="https://i.imgur.com/b2wycCC.png" height="25%" width="25%" alt="Cart Screen"/>
